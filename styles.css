@@ -1,0 +1,23 @@
+body {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+main, nav {
+  font-size: large;
+  line-height: 1.5em;
+}
+
+h2 {
+  color: #32a327;
+}
+
+h3 {
+  color: #aa9032;
+}
+
+footer {
+  margin-bottom: 25px;
+}

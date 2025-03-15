@@ -1,0 +1,3 @@
+# styling and customizations
+
+I set the layout to be a center column. I made the colors of the headings different. I also changed the font to be helvetica and changed the font size and line height.
